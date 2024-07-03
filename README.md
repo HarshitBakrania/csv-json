@@ -7,4 +7,4 @@
 4. run `db.js` to create the table in your database.
 5. run `app.js` to convert your CSV file to JSON.
 
-You can go to the `/convert` to look at your converted JSON file and the data is automatically insereted into your table.
+You can go to the `/convert` to look at your converted JSON file and the data is automatically inserted into your table.
